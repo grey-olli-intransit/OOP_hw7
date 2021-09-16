@@ -1,0 +1,20 @@
+----> 04:29:20 Thu Sep 16 olli@dell15 ~/bin/cpp/geekbrains/OOP/homework7/build
+$ ./hw7t1 
+7.11.1976
+date is nullptr
+15.9.2021
+15.9.2021
+After swap:
+date is NOT null (expected).
+today is null
+----> 04:30:00 Thu Sep 16 olli@dell15 ~/bin/cpp/geekbrains/OOP/homework7/build
+$ ./hw7t2
+15.9.2021
+15.9.2020
+newer date:15.9.2021
+15.9.2020
+15.9.2021
+----> 04:30:03 Thu Sep 16 olli@dell15 ~/bin/cpp/geekbrains/OOP/homework7/build
+$ 
+
+
